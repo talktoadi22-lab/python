@@ -1,0 +1,1 @@
+appointment_id,patient_id,doctor_id,date,appointment_time,arrival_time,consultation_start,consultation_end,status,waiting_time,consultation_duration
